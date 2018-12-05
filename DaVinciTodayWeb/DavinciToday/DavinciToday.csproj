@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <UserSecretsId>aspnet-DavinciToday-BF6995E7-4866-4C9C-A32D-653BA16336D2</UserSecretsId>
+    <UserSecretsId>aspnet-DavinciToday-01C4B7DE-2834-42E2-9DC0-36A771521812</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

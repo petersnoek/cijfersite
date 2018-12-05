@@ -16,7 +16,7 @@
 [Rr]elease/
 [Rr]eleases/
 x64/
-x86/
+x86/$
 bld/
 [Bb]in/
 [Oo]bj/
@@ -259,3 +259,5 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+DaVinciTodayWeb/DavinciToday/appsettings.Development.json
+DaVinciTodayWeb/DavinciToday/appsettings.json
